@@ -1,3 +1,5 @@
+// function takes an array of numbers and return the product of them all
+
 // productOfArray([1,2,3]) // 6
 // productOfArray([1,2,3,10]) // 60
 
